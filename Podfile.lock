@@ -1,0 +1,22 @@
+PODS:
+  - IQKeyboardManager (3.3.4)
+  - Masonry (0.6.3)
+  - ReactiveCocoa (2.3.1):
+    - ReactiveCocoa/UI (= 2.3.1)
+  - ReactiveCocoa/Core (2.3.1):
+    - ReactiveCocoa/no-arc
+  - ReactiveCocoa/no-arc (2.3.1)
+  - ReactiveCocoa/UI (2.3.1):
+    - ReactiveCocoa/Core
+
+DEPENDENCIES:
+  - IQKeyboardManager
+  - Masonry
+  - ReactiveCocoa (~> 2.3.1)
+
+SPEC CHECKSUMS:
+  IQKeyboardManager: ac803e61e5b50efae6b3aeedd95a02c7c7d3b2b3
+  Masonry: ff105a956abcd19a618b2028b121cb638d7a8e2f
+  ReactiveCocoa: 334468a83b2c5f669f7cfb9a084415ee23219b4f
+
+COCOAPODS: 0.37.2
